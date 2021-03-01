@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jupyter notebook on Kevin Angotti</title>
+    <link>https://kangotti.github.io/Data_Science_Portfolio/tags/jupyter-notebook/</link>
+    <description>Recent content in jupyter notebook on Kevin Angotti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Jul 2020 11:25:05 -0400</lastBuildDate><atom:link href="https://kangotti.github.io/Data_Science_Portfolio/tags/jupyter-notebook/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 5: Coding Models in Python and R</title>
+      <link>https://kangotti.github.io/Data_Science_Portfolio/post/project-5/</link>
+      <pubDate>Mon, 20 Jul 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://kangotti.github.io/Data_Science_Portfolio/post/project-5/</guid>
+      <description>This project expanded on project 4 to look at how a superhero might be selected for a movie or television series based on their history and powers information. The use of Natural Language Processing for text mining was attempted to make the predictions. The data was retrieved from Kaggle and analyzed a superhero’s overall score from their different abilities, and compared the results to the history text and powers text variables within the dataset.</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Joining Data of Different Types</title>
+      <link>https://kangotti.github.io/Data_Science_Portfolio/post/project-4/</link>
+      <pubDate>Thu, 16 Apr 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://kangotti.github.io/Data_Science_Portfolio/post/project-4/</guid>
+      <description>In this project, the main goal was learning clean data with EDA then creating table joins. The project looked at different types of Superhero abilities and compared them to popularity based on website rankings. The projects took in three different data sources, HTML, API, and excel. Excel data was retrieved from Kaggle.com while the HTML came from IMBD, and the API data was accessed from a world ranking superhero database via an API key.</description>
+    </item>
+    
+  </channel>
+</rss>

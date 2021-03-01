@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogging on Kevin Angotti</title>
+    <link>https://kangotti.github.io/Data_Science_Portfolio/tags/blogging/</link>
+    <description>Recent content in Blogging on Kevin Angotti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Oct 2020 11:25:05 -0400</lastBuildDate><atom:link href="https://kangotti.github.io/Data_Science_Portfolio/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 7: Different Way To Present Data</title>
+      <link>https://kangotti.github.io/Data_Science_Portfolio/post/project-7/</link>
+      <pubDate>Fri, 30 Oct 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://kangotti.github.io/Data_Science_Portfolio/post/project-7/</guid>
+      <description>This Project contains all data and different analytic approaches that can be used to look at a problem. The Project was to create a dashboard, PowerPoint, Blog post, infographic, and finally tie it together with a video presentation. This was my first interaction with a blog and an infographic; both were very informative in understanding how to publicize a project. The data was pulled from the Nation Highway and Safety Board as well as the FAA.</description>
+    </item>
+    
+  </channel>
+</rss>

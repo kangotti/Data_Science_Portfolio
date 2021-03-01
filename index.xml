@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Kevin Angotti</title>
+    <link>https://kangotti.github.io/Data_Science_Portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Kevin Angotti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Feb 2021 11:25:05 -0400</lastBuildDate><atom:link href="https://kangotti.github.io/Data_Science_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 10: Data Science Project 3</title>
+      <link>https://kangotti.github.io/Data_Science_Portfolio/post/project-10/</link>
+      <pubDate>Sat, 20 Feb 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://kangotti.github.io/Data_Science_Portfolio/post/project-10/</guid>
+      <description>The National Football League, or NFL for short, is a multi-billion dollar industry. The sport has followers worldwide, and the season spans almost the entire year when you dig into each of the different events. One of the largest events outside the Superbowl is the NFL draft. Preparing for the NFL Draft is another event called the NFL scouting combine. This event brings the top 300 or so collegiate players in the nation to Indianapolis, Indiana, for what is essentially a 4-day job interview.</description>
+    </item>
+    
+    <item>
+      <title>Project 9: Data Science Project 2</title>
+      <link>https://kangotti.github.io/Data_Science_Portfolio/post/project-9/</link>
+      <pubDate>Sun, 07 Feb 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://kangotti.github.io/Data_Science_Portfolio/post/project-9/</guid>
+      <description>When a person is looking to build their idea or business, one place they can turn is Kickstarter.com. This site allows for one to open a campaign to search for investors to back their idea. The Kickstarter site explains that the beginning stage of a campaign is the busiest time, and you can expect the first few days to be jam-packed as you will need to spread the word on your campaign, answer questions from potential backers and rally all your social media networks in order to reach your fundraising goal.</description>
+    </item>
+    
+    <item>
+      <title>Project 8: Data Science Project 1</title>
+      <link>https://kangotti.github.io/Data_Science_Portfolio/post/project-8/</link>
+      <pubDate>Thu, 07 Jan 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://kangotti.github.io/Data_Science_Portfolio/post/project-8/</guid>
+      <description>Travel is a billion-dollar industry, and the hotel or lodging sector takes a large portion of the revenue. Airbnb has quickly become a staple in the travel sector. With their bookable locations in just about every travel destination worldwide, you can easily see why they have become so successful. This project looks to finding ways a customer can locate the best host to book based on location and affordability. One of the main goals was to determine if a plugin or application could be created to help make future Airbnb bookings.</description>
+    </item>
+    
+    <item>
+      <title>Project 7: Different Way To Present Data</title>
+      <link>https://kangotti.github.io/Data_Science_Portfolio/post/project-7/</link>
+      <pubDate>Fri, 30 Oct 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://kangotti.github.io/Data_Science_Portfolio/post/project-7/</guid>
+      <description>This Project contains all data and different analytic approaches that can be used to look at a problem. The Project was to create a dashboard, PowerPoint, Blog post, infographic, and finally tie it together with a video presentation. This was my first interaction with a blog and an infographic; both were very informative in understanding how to publicize a project. The data was pulled from the Nation Highway and Safety Board as well as the FAA.</description>
+    </item>
+    
+    <item>
+      <title>Project 6: A Data Science Project Start to Finish</title>
+      <link>https://kangotti.github.io/Data_Science_Portfolio/post/project-6/</link>
+      <pubDate>Tue, 21 Jul 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://kangotti.github.io/Data_Science_Portfolio/post/project-6/</guid>
+      <description>This project aims to predict police shootings in the United States. Police shootings are a hot button topic in the United States as their frequency increases year over year. By examining data provided by the FBI, the project team will provide insights into factors contributing to these shootings that may aid in reducing their numbers.
+The project&amp;rsquo;s main goal was to determine if the fatal shooting could be predicted based on race, age, or signs of mental illness.</description>
+    </item>
+    
+    <item>
+      <title>Project 5: Coding Models in Python and R</title>
+      <link>https://kangotti.github.io/Data_Science_Portfolio/post/project-5/</link>
+      <pubDate>Mon, 20 Jul 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://kangotti.github.io/Data_Science_Portfolio/post/project-5/</guid>
+      <description>This project expanded on project 4 to look at how a superhero might be selected for a movie or television series based on their history and powers information. The use of Natural Language Processing for text mining was attempted to make the predictions. The data was retrieved from Kaggle and analyzed a superhero’s overall score from their different abilities, and compared the results to the history text and powers text variables within the dataset.</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Joining Data of Different Types</title>
+      <link>https://kangotti.github.io/Data_Science_Portfolio/post/project-4/</link>
+      <pubDate>Thu, 16 Apr 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://kangotti.github.io/Data_Science_Portfolio/post/project-4/</guid>
+      <description>In this project, the main goal was learning clean data with EDA then creating table joins. The project looked at different types of Superhero abilities and compared them to popularity based on website rankings. The projects took in three different data sources, HTML, API, and excel. Excel data was retrieved from Kaggle.com while the HTML came from IMBD, and the API data was accessed from a world ranking superhero database via an API key.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Learning to Code in Python</title>
+      <link>https://kangotti.github.io/Data_Science_Portfolio/post/project-3/</link>
+      <pubDate>Wed, 15 Apr 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://kangotti.github.io/Data_Science_Portfolio/post/project-3/</guid>
+      <description>This project focused on predicting which sport is the toughest by way of skill. The data took in different attributes such as strength, agility, endurance, durability and analyzed these different aspects by popularity.   Link to Github Repository.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Learning to Code in R</title>
+      <link>https://kangotti.github.io/Data_Science_Portfolio/post/project-2/</link>
+      <pubDate>Mon, 13 Jan 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://kangotti.github.io/Data_Science_Portfolio/post/project-2/</guid>
+      <description>When looking for places to apply to college, a bit of research is required more often than not. However, more often than not, family or political ties could add to a decision-making process. Take away school allegiance searching for the best school sometimes just comes down to which school is the best. There are many national and international ranking systems out; however, does it truly matter where you go to school?</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Creating a simple application</title>
+      <link>https://kangotti.github.io/Data_Science_Portfolio/post/project-1/</link>
+      <pubDate>Fri, 10 Jan 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://kangotti.github.io/Data_Science_Portfolio/post/project-1/</guid>
+      <description>This projects aim was to create a weather application by coding within the Python programing language. The application takes in either a location by text or zip code to provide the weather on that location. The application uses an API key from the openweather.org site to provide the results. Link to Github Repository.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://kangotti.github.io/Data_Science_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kangotti.github.io/Data_Science_Portfolio/contact/</guid>
+      <description>Reach out or follow me on these platforms.    Platform URL     Email: kevin.j.angotti@gmail.com   Linkedin: https://www.linkedin.com/in/kevin-angotti-b71b3675/   GitHub: https://github.com/kangotti    </description>
+    </item>
+    
+  </channel>
+</rss>

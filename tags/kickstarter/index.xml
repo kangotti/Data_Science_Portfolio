@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kickstarter on Kevin Angotti</title>
+    <link>https://kangotti.github.io/Data_Science_Portfolio/tags/kickstarter/</link>
+    <description>Recent content in Kickstarter on Kevin Angotti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Feb 2021 11:25:05 -0400</lastBuildDate><atom:link href="https://kangotti.github.io/Data_Science_Portfolio/tags/kickstarter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Science Portfolio</title>
+      <link>https://kangotti.github.io/Data_Science_Portfolio/</link>
+      <pubDate>Sat, 20 Feb 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://kangotti.github.io/Data_Science_Portfolio/</guid>
+      <description>Welcome to my Data Science Portfolio. My passion is to understand better the interactions data science has in different industries. The conservation-restoration world and sports market are just two of the areas I am interested in.</description>
+    </item>
+    
+    <item>
+      <title>Project 9: Data Science Project 2</title>
+      <link>https://kangotti.github.io/Data_Science_Portfolio/post/project-9/</link>
+      <pubDate>Sun, 07 Feb 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://kangotti.github.io/Data_Science_Portfolio/post/project-9/</guid>
+      <description>When a person is looking to build their idea or business, one place they can turn is Kickstarter.com. This site allows for one to open a campaign to search for investors to back their idea. The Kickstarter site explains that the beginning stage of a campaign is the busiest time, and you can expect the first few days to be jam-packed as you will need to spread the word on your campaign, answer questions from potential backers and rally all your social media networks in order to reach your fundraising goal.</description>
+    </item>
+    
+  </channel>
+</rss>

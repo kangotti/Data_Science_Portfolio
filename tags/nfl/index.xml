@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NFL on Kevin Angotti</title>
+    <link>https://kangotti.github.io/Data_Science_Portfolio/tags/nfl/</link>
+    <description>Recent content in NFL on Kevin Angotti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Feb 2021 11:25:05 -0400</lastBuildDate><atom:link href="https://kangotti.github.io/Data_Science_Portfolio/tags/nfl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 10: Data Science Project 3</title>
+      <link>https://kangotti.github.io/Data_Science_Portfolio/post/project-10/</link>
+      <pubDate>Sat, 20 Feb 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://kangotti.github.io/Data_Science_Portfolio/post/project-10/</guid>
+      <description>The National Football League, or NFL for short, is a multi-billion dollar industry. The sport has followers worldwide, and the season spans almost the entire year when you dig into each of the different events. One of the largest events outside the Superbowl is the NFL draft. Preparing for the NFL Draft is another event called the NFL scouting combine. This event brings the top 300 or so collegiate players in the nation to Indianapolis, Indiana, for what is essentially a 4-day job interview.</description>
+    </item>
+    
+  </channel>
+</rss>
